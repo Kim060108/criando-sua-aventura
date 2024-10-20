@@ -1,0 +1,33 @@
+body{
+background-color: (46, 234, 234);
+color: (0, 0, 0, 0.926);
+font-family: font-family: "Ruge Boogie", serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button {
+    background-color: (138, 50, 220);
+    color (0, 0, 0, 0.957);
+    font-family: "Ruge Boogie", serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 80%;
+}
